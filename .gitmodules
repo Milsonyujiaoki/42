@@ -1,0 +1,60 @@
+[submodule "42_common_core/ft_printf"]
+	path = 42_common_core/ft_printf
+	url = https://github.com
+[submodule "42_common_core/get_next_line"]
+	path = 42_common_core/get_next_line
+	url = https://github.com
+[submodule "42_common_core/libft"]
+	path = 42_common_core/libft
+	url = https://github.com
+[submodule "piscine/bsq"]
+	path = piscine/bsq
+	url = https://github.com
+[submodule "piscine/c00"]
+	path = piscine/c00
+	url = https://github.com
+[submodule "piscine/c01"]
+	path = piscine/c01
+	url = https://github.com
+[submodule "piscine/c02"]
+	path = piscine/c02
+	url = https://github.com
+[submodule "piscine/c03"]
+	path = piscine/c03
+	url = https://github.com
+[submodule "piscine/c04"]
+	path = piscine/c04
+	url = https://github.com
+[submodule "piscine/c05"]
+	path = piscine/c05
+	url = https://github.com
+[submodule "piscine/c06"]
+	path = piscine/c06
+	url = https://github.com
+[submodule "piscine/c07"]
+	path = piscine/c07
+	url = https://github.com
+[submodule "piscine/c08"]
+	path = piscine/c08
+	url = https://github.com
+[submodule "piscine/c09"]
+	path = piscine/c09
+	url = https://github.com
+[submodule "piscine/c10"]
+	path = piscine/c10
+	url = https://github.com
+[submodule "piscine/c11"]
+	path = piscine/c11
+	url = https://github.com
+[submodule "piscine/c12"]
+	path = piscine/c12
+	url = https://github.com
+[submodule "piscine/c13"]
+	path = piscine/c13
+	url = https://github.com
+[submodule "piscine/shell00"]
+	path = piscine/shell00
+	url = https://github.com
+[submodule "piscine/shell01"]
+	path = piscine/shell01
+	url = https://github.com
