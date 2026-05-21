@@ -58,3 +58,39 @@
 [submodule "piscine/shell01"]
 	path = piscine/shell01
 	url = https://github.com
+[submodule "42_common_core/cub3d"]
+	path = 42_common_core/cub3d
+	url = https://github.com/Milsonyujiaoki/cub3d.git
+[submodule "42_common_core/netpratice"]
+	path = 42_common_core/netpratice
+	url = https://github.com/Milsonyujiaoki/netpractice.git
+[submodule "42_common_core/netpractice"]
+	path = 42_common_core/netpractice
+	url = https://github.com/Milsonyujiaoki/netpractice.git
+[submodule "42_common_core/ft_transcendence"]
+	path = 42_common_core/ft_transcendence
+	url = https://github.com/Milsonyujiaoki/ft_trancendence.git
+[submodule "42_common_core/inception"]
+	path = 42_common_core/inception
+	url = https://github.com/Milsonyujiaoki/inception.git
+[submodule "42_common_core/miniRT"]
+	path = 42_common_core/miniRT
+	url = https://github.com/Milsonyujiaoki/miniRT.git
+[submodule "42_common_core/minishell"]
+	path = 42_common_core/minishell
+	url = https://github.com/Milsonyujiaoki/minishell.git
+[submodule "42_common_core/philosophers"]
+	path = 42_common_core/philosophers
+	url = https://github.com/Milsonyujiaoki/philosophers.git
+[submodule "42_common_core/push_swap"]
+	path = 42_common_core/push_swap
+	url = https://github.com/Milsonyujiaoki/push_swap.git
+[submodule "42_common_core/so_long"]
+	path = 42_common_core/so_long
+	url = https://github.com/Milsonyujiaoki/so_long.git
+[submodule "42_common_core/webserv"]
+	path = 42_common_core/webserv
+	url = https://github.com/Milsonyujiaoki/webserv.git
+[submodule "42_common_core/cpp_modules"]
+	path = 42_common_core/cpp_modules
+	url = https://github.com/Milsonyujiaoki/cpp_modules.git
