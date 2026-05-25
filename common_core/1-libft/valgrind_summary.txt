@@ -1,0 +1,62 @@
+========================================
+ Executando Valgrind em todos os testes
+========================================
+
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+✓ PASSED
+
+========================================
+ RESUMO
+========================================
+Total de testes: 49
+Passou: 49
+Falhou: 0
+
+✓ TODOS OS TESTES PASSARAM SEM MEMORY LEAKS!

@@ -1,0 +1,43 @@
+#ifndef STDLIB_H
+#define STDLIB_H
+
+#include <stddef.h>
+
+/* String conversion functions */
+int ft_atoi(const char *str);
+long ft_atol(const char *str);
+long long ft_atoll(const char *str);
+double ft_atof(const char *str);
+
+/* Memory allocation functions */
+void *ft_malloc(size_t size);
+void *ft_calloc(size_t nmemb, size_t size);
+void *ft_realloc(void *ptr, size_t size);
+void ft_free(void *ptr);
+
+/* Process control functions */
+void ft_exit(int status);
+void ft_abort(void);
+int ft_atexit(void (*func)(void));
+
+/* Environment functions */
+char *ft_getenv(const char *name);
+int ft_setenv(const char *name, const char *value, int overwrite);
+int ft_unsetenv(const char *name);
+
+/* Pseudo-random number generation */
+int ft_rand(void);
+void ft_srand(unsigned int seed);
+
+/* Integer arithmetic functions */
+int ft_abs(int n);
+long ft_labs(long n);
+long long ft_llabs(long long n);
+
+/* Searching and sorting */
+void *ft_bsearch(const void *key, const void *base, size_t nmemb, size_t size,
+                  int (*compar)(const void *, const void *));
+void ft_qsort(void *base, size_t nmemb, size_t size,
+              int (*compar)(const void *, const void *));
+
+#endif /* MINI_STDLIB_H */

@@ -98,3 +98,12 @@
 	path = piscine/shell01
 	url = https://github.com
 
+[submodule "1-libft"]
+	path = 1-libft
+	url = git@github.com:Milsonyujiaoki/libft.git
+[submodule "2-ft_printf"]
+	path = 2-ft_printf
+	url = git@github.com:Milsonyujiaoki/ft_printf.git
+[submodule "3-get_next_line"]
+	path = 3-get_next_line
+	url = git@github.com:Milsonyujiaoki/get_next_line.git
