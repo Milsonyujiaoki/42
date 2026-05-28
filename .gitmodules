@@ -1,12 +1,12 @@
 [submodule "42_common_core/ft_printf"]
 	path = 42_common_core/ft_printf
-	url = git@github.com:Milsonyujiaoki/ft_printf
+	url = git@github.com:Milsonyujiaoki/ft_printf.git
 [submodule "42_common_core/get_next_line"]
 	path = 42_common_core/get_next_line
-	url = git@github.com:Milsonyujiaoki/get_next_line
+	url = git@github.com:Milsonyujiaoki/get_next_line.git
 [submodule "42_common_core/libft"]
 	path = 42_common_core/libft
-	url = git@github.com:Milsonyujiaoki/libft
+	url = git@github.com:Milsonyujiaoki/libft.git
 [submodule "42_common_core/cub3d"]
 	path = 42_common_core/cub3d
 	url = git@github.com:Milsonyujiaoki/cub3d.git
@@ -48,52 +48,52 @@
 	url = git@github.com:Milsonyujiaoki/born2beroot.git
 [submodule "piscine/bsq"]
 	path = piscine/bsq
-	url = git@github.com:Milsonyujiaoki/bsq
+	url = git@github.com:Milsonyujiaoki/bsq.git
 [submodule "piscine/c00"]
 	path = piscine/c00
-	url = git@github.com:Milsonyujiaoki/c00
+	url = git@github.com:Milsonyujiaoki/c00.git
 [submodule "piscine/c01"]
 	path = piscine/c01
-	url = git@github.com:Milsonyujiaoki/c01
+	url = git@github.com:Milsonyujiaoki/c01.git
 [submodule "piscine/c02"]
 	path = piscine/c02
-	url = git@github.com:Milsonyujiaoki/c02
+	url = git@github.com:Milsonyujiaoki/c02.git
 [submodule "piscine/c03"]
 	path = piscine/c03
-	url = git@github.com:Milsonyujiaoki/c03
+	url = git@github.com:Milsonyujiaoki/c03.git
 [submodule "piscine/c04"]
 	path = piscine/c04
-	url = git@github.com:Milsonyujiaoki/c04
+	url = git@github.com:Milsonyujiaoki/c04.git
 [submodule "piscine/c05"]
 	path = piscine/c05
-	url = git@github.com:Milsonyujiaoki/c05
+	url = git@github.com:Milsonyujiaoki/c05.git
 [submodule "piscine/c06"]
 	path = piscine/c06
-	url = git@github.com:Milsonyujiaoki/c06
+	url = git@github.com:Milsonyujiaoki/c06.git
 [submodule "piscine/c07"]
 	path = piscine/c07
-	url = git@github.com:Milsonyujiaoki/c07
+	url = git@github.com:Milsonyujiaoki/c07.git
 [submodule "piscine/c08"]
 	path = piscine/c08
-	url = git@github.com:Milsonyujiaoki/c08
+	url = git@github.com:Milsonyujiaoki/c08.git
 [submodule "piscine/c09"]
 	path = piscine/c09
-	url = git@github.com:Milsonyujiaoki/c09
+	url = git@github.com:Milsonyujiaoki/c09.git
 [submodule "piscine/c10"]
 	path = piscine/c10
-	url = git@github.com:Milsonyujiaoki/c10
+	url = git@github.com:Milsonyujiaoki/c10.git
 [submodule "piscine/c11"]
 	path = piscine/c11
-	url = git@github.com:Milsonyujiaoki/c11
+	url = git@github.com:Milsonyujiaoki/c11.git
 [submodule "piscine/c12"]
 	path = piscine/c12
-	url = git@github.com:Milsonyujiaoki/c12
+	url = git@github.com:Milsonyujiaoki/c12.git
 [submodule "piscine/c13"]
 	path = piscine/c13
-	url = git@github.com:Milsonyujiaoki/c13
+	url = git@github.com:Milsonyujiaoki/c13.git
 [submodule "piscine/shell00"]
 	path = piscine/shell00
-	url = git@github.com:Milsonyujiaoki/shell00
+	url = git@github.com:Milsonyujiaoki/shell00.git
 [submodule "piscine/shell01"]
 	path = piscine/shell01
-	url = git@github.com:Milsonyujiaoki/
+	url = git@github.com:Milsonyujiaoki/shell01.git
