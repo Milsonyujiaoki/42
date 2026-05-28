@@ -7,7 +7,7 @@
 [submodule "42_common_core/libft"]
 	path = 42_common_core/libft
 	url = https://github.com
-	[submodule "42_common_core/cub3d"]
+[submodule "42_common_core/cub3d"]
 	path = 42_common_core/cub3d
 	url = https://github.com/Milsonyujiaoki/cub3d.git
 [submodule "42_common_core/netpratice"]
@@ -97,13 +97,3 @@
 [submodule "piscine/shell01"]
 	path = piscine/shell01
 	url = https://github.com
-
-[submodule "1-libft"]
-	path = 1-libft
-	url = git@github.com:Milsonyujiaoki/libft.git
-[submodule "2-ft_printf"]
-	path = 2-ft_printf
-	url = git@github.com:Milsonyujiaoki/ft_printf.git
-[submodule "3-get_next_line"]
-	path = 3-get_next_line
-	url = git@github.com:Milsonyujiaoki/get_next_line.git
